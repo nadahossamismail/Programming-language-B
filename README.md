@@ -1,2 +1,3 @@
 # Programming-language-B
-Programming language B course on Coursera
+Programming language B   
+https://www.coursera.org/learn/programming-languages-part-b/home/welcome
